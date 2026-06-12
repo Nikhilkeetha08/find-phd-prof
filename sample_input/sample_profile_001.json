@@ -1,0 +1,41 @@
+{
+  "student_id": "student_001",
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "IIT Bombay",
+      "field": "Computer Science",
+      "grade": "9.2/10",
+      "year": 2022,
+      "thesis_title": "Efficient Transformer Architectures for Low-Resource NLP"
+    },
+    {
+      "degree": "M.Tech",
+      "institution": "IIT Bombay",
+      "field": "Artificial Intelligence",
+      "grade": "8.9/10",
+      "year": 2024,
+      "thesis_title": "Federated Learning with Differential Privacy for Healthcare NLP"
+    }
+  ],
+  "skills": ["Python", "PyTorch", "federated learning", "NLP", "transformers", "differential privacy"],
+  "publications": [
+    {
+      "title": "Differentially Private Fine-Tuning of Large Language Models",
+      "venue": "ACL 2024",
+      "year": 2024
+    }
+  ],
+  "research_interests": [
+    "federated learning",
+    "natural language processing",
+    "privacy-preserving machine learning",
+    "large language models",
+    "healthcare AI"
+  ],
+  "target_countries": ["us", "uk", "au"],
+  "target_intake": "Fall 2025",
+  "nationality": "IN",
+  "intro_call_summary": "Student is passionate about privacy-preserving AI, especially federated learning applied to sensitive healthcare text data. Wants a lab with both systems and NLP expertise. Open to interdisciplinary groups spanning CS and medical informatics.",
+  "resume_text": "IIT Bombay graduate with research in federated learning and NLP. Published at ACL 2024. Strong PyTorch and distributed systems background."
+}

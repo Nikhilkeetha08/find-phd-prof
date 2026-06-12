@@ -1,0 +1,46 @@
+{
+  "student_id": "student_005",
+  "education": [
+    {
+      "degree": "B.Sc. (Hons)",
+      "institution": "University of Toronto",
+      "field": "Physics and Mathematics",
+      "grade": "3.95/4.0",
+      "year": 2021,
+      "thesis_title": "Variational Quantum Eigensolvers for Small Molecular Systems"
+    },
+    {
+      "degree": "M.Sc.",
+      "institution": "Perimeter Institute / University of Waterloo",
+      "field": "Quantum Information",
+      "grade": "A (91%)",
+      "year": 2023,
+      "thesis_title": "Threshold Theorems for Quantum LDPC Codes under Biased Noise"
+    }
+  ],
+  "skills": ["Python", "Qiskit", "Cirq", "Julia", "quantum error correction", "stabilizer codes", "tensor networks", "LDPC codes", "C++"],
+  "publications": [
+    {
+      "title": "Fault-Tolerant Thresholds for Quantum LDPC Codes under Phenomenological Noise",
+      "venue": "Physical Review X Quantum",
+      "year": 2023
+    },
+    {
+      "title": "Biased Noise Decoding for Hypergraph Product Codes",
+      "venue": "QIP 2024",
+      "year": 2024
+    }
+  ],
+  "research_interests": [
+    "quantum error correction",
+    "fault-tolerant quantum computing",
+    "quantum LDPC codes",
+    "quantum information theory",
+    "topological codes"
+  ],
+  "target_countries": ["us", "uk", "au"],
+  "target_intake": "Fall 2025",
+  "nationality": "CA",
+  "intro_call_summary": "Student is deeply focused on the theoretical side of fault-tolerant quantum computing — specifically constructing and analysing families of quantum LDPC codes with good threshold properties. Wants a group at the boundary of quantum information theory and coding theory, ideally with links to hardware groups at IBM, Google, or national labs. Less interested in pure application, more in foundational theory.",
+  "resume_text": "Perimeter / Waterloo graduate with strong publication record in quantum error correction. Co-authored PRX Quantum paper on LDPC thresholds. Comfortable with both analytical proof techniques and simulation (Qiskit, Cirq, Julia). Seeking PhD in quantum computing theory."
+}

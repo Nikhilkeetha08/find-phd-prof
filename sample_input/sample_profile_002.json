@@ -1,0 +1,45 @@
+{
+  "student_id": "student_003",
+  "education": [
+    {
+      "degree": "B.E.",
+      "institution": "BITS Pilani",
+      "field": "Electrical and Electronics Engineering",
+      "grade": "8.7/10",
+      "year": 2020
+    },
+    {
+      "degree": "M.S. (Research)",
+      "institution": "Indian Institute of Science",
+      "field": "Computational Neuroscience",
+      "grade": "7.9/10",
+      "year": 2023,
+      "thesis_title": "Decoding Motor Intentions from EEG using Attention-based Deep Learning"
+    }
+  ],
+  "skills": ["Python", "MATLAB", "MNE-Python", "deep learning", "EEG/MEG signal processing", "PyTorch", "brain-computer interfaces", "spike sorting"],
+  "publications": [
+    {
+      "title": "Transformer-based Decoding of Motor Imagery EEG for Brain-Computer Interfaces",
+      "venue": "Journal of Neural Engineering",
+      "year": 2023
+    },
+    {
+      "title": "Cross-subject Transfer Learning for EEG-based BCI Systems",
+      "venue": "NeurIPS 2022 Workshop on Machine Learning for Health",
+      "year": 2022
+    }
+  ],
+  "research_interests": [
+    "brain-computer interfaces",
+    "neural decoding",
+    "EEG signal processing",
+    "motor cortex",
+    "neuroprosthetics"
+  ],
+  "target_countries": ["us", "ca", "ch"],
+  "target_intake": "Fall 2025",
+  "nationality": "IN",
+  "intro_call_summary": "Student has a strong engineering + neuroscience blend and is passionate about restoring motor function in paralysed patients via BCIs. Wants a lab with access to human EEG/ECoG data and ideally clinical collaborators. Strong preference for groups with NSF or NIH funding. Open to cross-disciplinary positions in biomedical engineering departments.",
+  "resume_text": "IISc graduate with 2 publications in neural decoding and BCI. Experienced in EEG preprocessing pipelines and transformer architectures applied to neural time series. Seeking PhD in computational neuroscience or BME."
+}
